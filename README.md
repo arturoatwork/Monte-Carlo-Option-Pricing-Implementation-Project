@@ -9,23 +9,23 @@ can be integrated into stochastic pricing models.
 
 ## Structure of Files
 
-MCP_SCHOOL/
-└── monte_carlo_project/
-    ├── analysis/
-    │   └── convergence_analysis.ipynb
-    ├── data/
-    │   └── README.md
-    ├── src/
-    │   ├── __init__.py
-    │   ├── black_scholes.py
-    │   ├── convergence.py
-    │   ├── gbm.py
-    │   ├── monte_carlo.py
-    │   ├── option_pricing.py
-    │   └── main.py
-    ├── README.md
-    ├── requirements.txt
-    └── theory.md
+.
+├── analysis/
+│   └── convergence_analysis.ipynb
+├── data/
+│   └── README.md
+├── src/
+│   ├── __init__.py
+│   ├── black_scholes.py
+│   ├── convergence.py
+│   ├── gbm.py
+│   ├── monte_carlo.py
+│   ├── option_pricing.py
+│   └── main.py
+├── README.md
+├── requirements.txt
+└── theory.md
+
 
 
 MCP_SCHOOL/
