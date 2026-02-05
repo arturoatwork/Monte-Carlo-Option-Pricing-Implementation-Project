@@ -8,7 +8,6 @@ The model is further calibrated using historical SPY volatility, demonstrating h
 can be integrated into stochastic pricing models.
 
 ## Structure of Files
-
 MCP_SCHOOL/
   monte_carlo_project/
     analysis/
@@ -26,6 +25,7 @@ MCP_SCHOOL/
     README.md
     requirements.txt
     theory.md
+
 
 
 MCP_SCHOOL/
