@@ -18,6 +18,13 @@ MCP_SCHOOL/
     - requirements.txt
     - theory.md
 
+##Installation & Usage
+
+Create a virtual environment and install dependencies:
+
+    - pip install -r requirements.txt
+    - python -m src.main
+    - python -m src.convergence
 
 ## Results & Interpretation
 
